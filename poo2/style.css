@@ -1,0 +1,85 @@
+.fondo{
+    background-image: url(/img/lobo-aullando-en-las-estrellas-7852.webp);
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.button{
+    color: white;
+    background:linear-gradient(black, aqua) ;
+    border-radius: 25%;
+    border: white solid;    
+    width: 150px;
+    height: 70px;
+    cursor: pointer;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    
+}
+  
+
+.perros{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: black solid 2px;  
+}
+
+
+
+.letra{
+    background-color: #fff;
+    border: solid;
+    border-radius: 5%; ;
+    
+}
+
+.letra1{
+    color: #fff;
+    border: solid #fff;
+    border-radius: 5%; ;
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    justify-content: center;
+}
+
+
+.letra2{
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    justify-content: center;
+    
+}
+
+
+.letra3{
+color: #fff;
+font-family: 'Anton', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+}
+
+.letra4{
+    font-family: 'Anton', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+font-size: 25px;
+}
+
